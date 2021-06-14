@@ -8,7 +8,7 @@ namespace Exercise8
     {
         int x;
         public abstract void f(int n);
-        private void G(string n)
+        private void G(uint n)
         {
             x = n as int;
             /*
